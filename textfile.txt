@@ -7,5 +7,6 @@
     </head>
     <body>
         <p>Hello world</p>
-    </body>
+            {{product.name}}
+        </body>
 </html>
